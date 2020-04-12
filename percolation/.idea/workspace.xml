@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c1e4f978-b3bd-4ae1-84e9-9e1170bce808" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Percolation.class" beforeDir="false" afterPath="$PROJECT_DIR$/Percolation.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Percolation.java" beforeDir="false" afterPath="$PROJECT_DIR$/Percolation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,7 +60,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PercolationStats">
+  <component name="RunManager" selected="Application.Percolation">
     <configuration name="Percolation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Percolation" />
       <module name="Algorithms, Part I" />
@@ -121,8 +119,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PercolationStats" />
         <item itemvalue="Application.Percolation" />
+        <item itemvalue="Application.PercolationStats" />
         <item itemvalue="Perl5 Test.Tests from 'percolation'" />
         <item itemvalue="Application.WeightedQuickUnionUF" />
       </list>
@@ -182,22 +180,22 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="412" height="466" key="DebuggerActiveHint/0.0.1440.900@0.0.1440.900" timestamp="1586681867400" />
-    <state width="1398" height="315" key="GridCell.Tab.0.bottom" timestamp="1586696285216">
+    <state width="1398" height="315" key="GridCell.Tab.0.bottom" timestamp="1586696588948">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="315" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586696285216" />
-    <state width="1398" height="315" key="GridCell.Tab.0.center" timestamp="1586696285215">
+    <state width="1398" height="315" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1586696588948" />
+    <state width="1398" height="315" key="GridCell.Tab.0.center" timestamp="1586696588947">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="315" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586696285215" />
-    <state width="1398" height="315" key="GridCell.Tab.0.left" timestamp="1586696285214">
+    <state width="1398" height="315" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1586696588947" />
+    <state width="1398" height="315" key="GridCell.Tab.0.left" timestamp="1586696588947">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="315" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586696285214" />
-    <state width="1398" height="315" key="GridCell.Tab.0.right" timestamp="1586696285216">
+    <state width="1398" height="315" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1586696588947" />
+    <state width="1398" height="315" key="GridCell.Tab.0.right" timestamp="1586696588948">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="315" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586696285216" />
+    <state width="1398" height="315" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1586696588948" />
     <state width="1398" height="303" key="GridCell.Tab.1.bottom" timestamp="1586685103373">
       <screen x="0" y="0" width="1440" height="900" />
     </state>

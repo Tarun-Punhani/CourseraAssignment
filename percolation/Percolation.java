@@ -130,7 +130,7 @@ public class Percolation {
             System.out.println("P is "+p+" and q is "+q);
             if (!percolation.isOpen(p, q)) {
                 percolation.open(p, q);
-                StdOut.println("is full "+percolation.isOpen(p, q));
+                StdOut.println("is full "+percolation.isFull(p, q));
                 StdOut.println("is percolate "+percolation.percolates());
             }
         }
