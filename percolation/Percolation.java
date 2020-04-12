@@ -96,7 +96,7 @@ public class Percolation {
             return false;
         }
 
-        if (weightedQuickUnionUF.connected(site[row][col], site[0][col])) {
+        if (weightedQuickUnionUF.connected(site[row][col], site[0][0])) {
             return true;
         }
 
@@ -130,9 +130,9 @@ public class Percolation {
             System.out.println("P is "+p+" and q is "+q);
             if (!percolation.isOpen(p, q)) {
                 percolation.open(p, q);
-                continue;
+                StdOut.println("is full "+percolation.isOpen(p, q));
+                StdOut.println("is percolate "+percolation.percolates());
             }
-            StdOut.println(p + " " + q);
         }
 
         System.out.println("Percolates ? "+percolation.percolates());
